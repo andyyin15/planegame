@@ -1,0 +1,6 @@
+-- require "HelpScene"
+-- --require "MainScene"
+-- require "SettingScene"
+-- require "StartScene"
+-- require "testResourse"
+-- require "GameOver"
